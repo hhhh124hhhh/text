@@ -1,0 +1,83 @@
+安装依赖
+sudo apt-get install xsel xclip libxm12-dev libxslt1-dev python-lxml python-h5py python-numexpr python-dateutil python-six python-tz  python-bs4  python-html5lib python-openpyxl python-tables python-xlrd python-xlwt cython python-sqlalchemy  python-xlsxwriter python-jinjia2 python-boto python-gflags python-gooleapi python-zmp  python-httplib2   libspatialindex-dev 
+
+sudo apt-get install xsel xclip  libxslt1-dev python-lxml python-h5py python-numexpr python-dateutil python-six python-tz  python-bs4  python-html5lib python-openpyxl python-tables python-xlrd python-xlwt cython python-sqlalchemy  python-xlsxwriter  python-boto python-gflags    python-httplib2   libspatialindex-dev 
+
+sudo pip3 install bottleneck rtree
+sudo apt-get install python-numpy python-matplotlib  python-scipy python-sklearn python-statsmodels python-pandas
+
+sudo apt-get install python-requests python-pil python-scrapy python-geopy python-shapely python-pyproj
+
+sudo apt-cache search jupyter
+
+jupyter - Interactive computing environment (metapackage)
+jupyter-client - Jupyter protocol client APIs (tools)
+jupyter-console - Jupyter terminal client (script)
+jupyter-core - Core common functionality of Jupyter projects (tools)
+jupyter-nbconvert - Jupyter notebook conversion (scripts)
+jupyter-nbextension-jupyter-js-widgets - Interactive widgets - Jupyter notebook extension
+jupyter-nbformat - Jupyter notebook format (tools)
+jupyter-notebook - Jupyter interactive notebook
+jupyter-qtconsole - Jupyter - Qt console (binaries)
+jupyter-sphinx-theme-common - Jupyter Sphinx Theme -- common files
+jupyter-sphinx-theme-doc - Jupyter Sphinx Theme -- documentation
+mu-editor - simple editor for beginner Python programmers
+mu-editor-doc - simple editor for beginner Python programmers (documentation)
+python-agate-doc - documentation for agate
+python-imexam-doc - Simple interactive astronomical image examination and plotting (Doc)
+python-ipykernel - IPython kernel for Jupyter (Python 2)
+python-ipython-genutils - IPython vestigial utilities for Python 2
+python-ipywidgets - Interactive widgets for the Jupyter notebook (Python 2)
+python-ipywidgets-doc - Interactive widgets for the Jupyter notebook (documentation)
+python-jupyter-client - Jupyter protocol client APIs (Python 2)
+python-jupyter-client-doc - Jupyter protocol client APIs (documentation)
+python-jupyter-console - Jupyter terminal client (Python 2)
+python-jupyter-console-doc - Jupyter terminal client (documentation)
+python-jupyter-core - Core common functionality of Jupyter projects for Python 2
+python-jupyter-core-doc - Core common functionality of Jupyter projects (documentation)
+python-jupyter-sphinx-theme - Jupyter Sphinx Theme -- Python
+python-leather-doc - documentation for leather
+python-nb2plots - Converting between ipython notebooks and sphinx docs (Python 2)
+python-nbconvert - Jupyter notebook conversion (Python 2)
+python-nbconvert-doc - Jupyter notebook conversion (documentation)
+python-nbformat - Jupyter notebook format (Python 2)
+python-nbformat-doc - Jupyter notebook format (documentation)
+python-nbsphinx - Jupyter Notebook Tools for Sphinx -- Python
+python-nbsphinx-doc - Jupyter Notebook Tools for Sphinx -- doc
+python-nbsphinx0.3-doc - Jupyter Notebook Tools for Sphinx -- Python2 - doc
+python-notebook - Jupyter interactive notebook (Python 2)
+python-notebook-doc - Jupyter interactive notebook (documentation)
+python-qtconsole - Jupyter - Qt console (Python 2)
+python-qtconsole-doc - Jupyter - Qt console (documentation)
+python-sagenb-export - Convert SageNB Notebooks (Python 2)
+python-spyder-kernels - Jupyter kernels for the Spyder console - Python 2
+python-traitlets - Lightweight Traits-like package for Python 2
+python-traitlets-doc - Lightweight Traits-like package for Python
+python-widgetsnbextension - Interactive widgets - Jupyter notebook extension (Python 2)
+python3-agate - data analysis library optimized for human readability
+python3-graphviz - Simple Python 3 interface for Graphviz
+python3-imexam - Simple interactive astronomical image examination and plotting
+python3-ipykernel - IPython kernel for Jupyter (Python 3)
+python3-ipython-genutils - IPython vestigial utilities for Python 3
+python3-ipywidgets - Interactive widgets for the Jupyter notebook (Python 3)
+python3-jupyter-client - Jupyter protocol client APIs (Python 3)
+python3-jupyter-console - Jupyter terminal client (Python 3)
+python3-jupyter-core - Core common functionality of Jupyter projects for Python 3
+python3-jupyter-sphinx-theme - Jupyter Sphinx Theme -- Python 3
+python3-leather - charting library for Python
+python3-nb2plots - Converting between ipython notebooks and sphinx docs (Python 3)
+python3-nbconvert - Jupyter notebook conversion (Python 3)
+python3-nbformat - Jupyter notebook format (Python 3)
+python3-nbsphinx - Jupyter Notebook Tools for Sphinx -- Python 3
+python3-notebook - Jupyter interactive notebook (Python 3)
+python3-pikepdf - Python library to read and write PDFs with QPDF
+python3-qtconsole - Jupyter - Qt console (Python 3)
+python3-sagenb-export - Convert SageNB Notebooks (Python 3)
+python3-spyder-kernels - Jupyter kernels for the Spyder console - Python 3
+python3-traitlets - Lightweight Traits-like package for Python 3
+python3-widgetsnbextension - Interactive widgets - Jupyter notebook extension (Python 3)
+r-cran-repr - Serializable representations of R objects
+sagemath-jupyter - Open Source Mathematical Software - Jupyter kernel
+
+
+sudo apt install libxml2-dev libxslt1-dev
